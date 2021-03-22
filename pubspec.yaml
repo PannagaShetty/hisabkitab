@@ -1,0 +1,39 @@
+name: hisab_kitab
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  flutter_switch: ^0.2.1
+  dotted_border: ^1.0.7
+  flutter_svg: ^0.19.1
+  fluttercontactpicker: ^4.4.0
+  intl: ^0.17.0
+  image_picker: ^0.7.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - asset/images/
+    - asset/images/Login/
+    - asset/svg/
+
+  fonts:
+    - family: ProximaNova
+      fonts:
+        - asset: asset/font/proxima_nova_reg.ttf

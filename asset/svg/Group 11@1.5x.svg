@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="51px" viewBox="0 0 50 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>DC80647C-20CE-41A7-87F9-65716A83A85E@1.5x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.321830458" width="50" height="50" rx="10"></rect>
+        <path d="M26.5845151,0.0351170569 L3.39,0.0351170569 C1.52036789,0.0351170569 0,1.55498328 0,3.42682274 L0,24.7439799 C0,26.613612 1.52036789,28.1318729 3.39,28.1318729 L26.5844147,28.1318729 C28.4540468,28.1318729 29.9728094,26.613612 29.9728094,24.7439799 L29.9728094,3.42682274 C29.9728094,1.55498328 28.4541472,0.0351170569 26.5845151,0.0351170569 Z M19.3820067,5.07923077 C21.1900334,5.07923077 22.6563211,6.54561873 22.6563211,8.35354515 C22.6563211,10.1614716 21.1899331,11.6278595 19.3820067,11.6278595 C17.5734783,11.6278595 16.1076923,10.1614716 16.1076923,8.35354515 C16.1076923,6.54561873 17.5734783,5.07923077 19.3820067,5.07923077 Z M25.5213712,24.9982274 L14.9861538,24.9982274 L4.920301,24.9982274 C4.01598662,24.9982274 3.61324415,24.3439465 4.02090301,23.5367559 L9.64023411,12.4066555 C10.0473913,11.5995652 10.8233779,11.5275251 11.3729097,12.2456187 L17.0233445,19.6298328 C17.5728763,20.3480268 18.5333779,20.4091304 19.169097,19.7656856 L20.5514047,18.3659197 C21.1866221,17.7224749 22.1225418,17.8021405 22.6409699,18.542709 L26.2204013,23.6556522 C26.7378261,24.3973244 26.4256856,24.9982274 25.5213712,24.9982274 Z" id="path-3"></path>
+        <filter x="-6.7%" y="-7.1%" width="120.0%" height="128.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="2" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.384407014   0 0 0 0 0.359030962   0 0 0 0 0.525361776  0 0 0 0.155730988 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="All-screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1D-Create-asset-10" transform="translate(-39.000000, -609.000000)">
+            <g id="Group-3" transform="translate(39.000000, 609.000000)">
+                <g id="Group-11">
+                    <g id="Bitmap">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#F2EFFC" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="insert-picture-icon" transform="translate(10.000000, 11.000000)" fill-rule="nonzero">
+                        <g id="Shape">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#625C86" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

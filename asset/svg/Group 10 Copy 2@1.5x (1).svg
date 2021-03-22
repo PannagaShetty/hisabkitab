@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="78px" viewBox="0 0 78 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>255DD944-CAA7-4123-856C-8E82533A803E@1.5x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="50" height="50" rx="10"></rect>
+        <filter x="-54.0%" y="-30.0%" width="208.0%" height="208.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.096645542 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="All-screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1E-Asset-details" transform="translate(-21.000000, -330.000000)">
+            <g id="Group" transform="translate(20.000000, 173.000000)">
+                <g id="Group-13" transform="translate(15.000000, 159.000000)">
+                    <g id="Group-10-Copy-2">
+                        <g id="Rectangle-Copy-9">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="money-sign" transform="translate(9.000000, 16.000000)" fill="#3A4856">
+                            <path d="M20.717634,17.0349392 L13.2287947,17.0349392 C12.9292411,17.0349392 12.7794643,16.8851624 12.6296875,16.5856088 C12.4799107,16.2860553 12.4799107,15.9865017 12.6296875,15.8367249 L16.3741072,9.84565347 C16.6736607,9.39632311 17.4225447,9.39632311 17.5723215,9.84565347 L21.3167411,15.8367249 C21.4665179,16.1362785 21.4665179,16.2860553 21.3167411,16.5856088 C21.1669643,16.8851624 21.0171875,17.0349392 20.717634,17.0349392 Z M14.5767857,15.5371713 L19.3696429,15.5371713 L16.9732143,11.6429749 L14.5767857,15.5371713 Z" id="Shape" fill-rule="nonzero"></path>
+                            <path d="M1.6655506,12.5416356 C1.39933036,12.5416356 1,12.242082 1,11.9425285 C1,11.4931981 1.13311012,11.1936445 1.53244048,11.0438678 L32.1477679,5.05279632 C32.5470983,5.05279632 32.8133185,5.2025731 32.9464286,5.65190346 C32.9464286,6.10123382 32.8133185,6.40078739 32.4139881,6.55056418 L1.6655506,12.5416356 Z" id="Path" fill-rule="nonzero"></path>
+                            <path d="M4.5,0.5 C4.5,0.223858 4.276142,0 4,0 C3.7238575,0 3.5,0.223858 3.5,0.5 L3.5,3.5 L0.5,3.5 C0.2238575,3.5 0,3.723858 0,4 C0,4.276142 0.223858,4.5 0.5,4.5 L3.5,4.5 L3.5,7.5 C3.5,7.776142 3.7238575,8 4,8 C4.276142,8 4.5,7.776142 4.5,7.5 L4.5,4.5 L7.5,4.5 C7.776142,4.5 8,4.276142 8,4 C8,3.723858 7.776142,3.5 7.5,3.5 L4.5,3.5 L4.5,0.5 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

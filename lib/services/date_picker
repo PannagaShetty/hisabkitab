@@ -1,0 +1,31 @@
+import 'package:flutter/material.dart';
+
+Future<List<DateTime>> selectDate(BuildContext context) async {
+  List<DateTime> datetime=[];
+  final DateTime picked1 = await showDatePicker(
+    context: context,
+    initialDate: DateTime.now(), // Refer step 1
+    firstDate: DateTime(2000),
+    lastDate: DateTime.now(),
+    helpText: 'Select initial date',
+  );
+
+  print(picked1);
+
+  if (picked1 != null) {
+    final DateTime picked2 = await showDatePicker(
+        context: context,
+        initialDate: DateTime.now(), // Refer step 1
+        firstDate: DateTime(2000),
+        lastDate: DateTime.now(),
+        helpText: 'select final date');
+    print(picked2);
+    if (picked2 != null) {
+      datetime.add(picked1);
+      datetime.add(picked2);
+      return datetime;
+    }
+  } else {
+    return null;
+  }
+}

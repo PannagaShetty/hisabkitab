@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="51px" viewBox="0 0 60 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>AB6D8781-2CF2-4E96-A18C-7D070F887415@1.5x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-21.9%" y="-36.8%" width="143.8%" height="173.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="25" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="All-screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1A-Hisab-kitaab--Home" transform="translate(-117.000000, -265.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Options" filter="url(#filter-1)" transform="translate(15.000000, 247.000000)">
+                <g id="Assets-&amp;-Liabilities">
+                    <g id="money-sign" transform="translate(114.000000, 18.000000)">
+                        <path d="M21.717634,12.0349392 L14.2287947,12.0349392 C13.9292411,12.0349392 13.7794643,11.8851624 13.6296875,11.5856088 C13.4799107,11.2860553 13.4799107,10.9865017 13.6296875,10.8367249 L17.3741072,4.84565347 C17.6736607,4.39632311 18.4225447,4.39632311 18.5723215,4.84565347 L22.3167411,10.8367249 C22.4665179,11.1362785 22.4665179,11.2860553 22.3167411,11.5856088 C22.1669643,11.8851624 22.0171875,12.0349392 21.717634,12.0349392 Z M15.5767857,10.5371713 L20.3696429,10.5371713 L17.9732143,6.6429749 L15.5767857,10.5371713 Z" id="Shape"></path>
+                        <path d="M0.74888393,7.54163561 C0.449330358,7.54163561 0,7.24208204 0,6.94252847 C0,6.49319811 0.149776786,6.19364454 0.599107144,6.04386775 L35.0477679,0.052796317 C35.4970983,0.052796317 35.7966518,0.202573103 35.9464286,0.651903461 C35.9464286,1.10123382 35.7966518,1.40078739 35.3473215,1.55056418 L0.74888393,7.54163561 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
